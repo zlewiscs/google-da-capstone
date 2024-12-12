@@ -13,4 +13,4 @@ def plot_data(data, title):
     plt.title(title)
     plt.show()
 
-    f.savefig("/home/lewiscs/PycharmProjects/google-da-capstone/data/" + title + ".pdf", bbox_inches='tight')
+    f.savefig("/home/lewiscs/PycharmProjects/google-da-capstone/report/" + title + ".pdf", bbox_inches='tight')
